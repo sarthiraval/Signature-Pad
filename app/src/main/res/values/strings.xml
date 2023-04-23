@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">All Aap</string>
+    <string name="signature_text">Please sign on the screen with your finger while respecting the card.</string>
+    <string name="save_text">Save</string>
+    <string name="clear_text">Clear</string>
+    <string name="next_text">Next</string>
+    <string name="newFile">New</string>
+    <string name="brush">Brush</string>
+    <string name="erase">Eraser</string>
+    <string name="color">Color</string>
+
+    <string name="google_maps_API_key">AIzaSyCzeCigMhYFV9wx6kQuHmuuZhmm7aD487Y</string>
+
+    <string-array name="type_string">
+        <item>QR Code</item>
+        <item>Barcode</item>
+        <item>Data Matrix</item>
+        <item>PDF 417</item>
+        <item>Barcode-39</item>
+        <item>Barcode-93</item>
+        <item>AZTEC</item>
+    </string-array>
+
+    <string name="type_prompt">Select Type</string>
+
+    <string name="label_default_text">304.74</string>
+    <string name="label_error_text">Error</string>
+    <string name="base">Base Currency</string>
+    <string name="imageview_desc">Bitcoin Logo</string>
+
+    <string-array name="currency_array">
+        <item>AUD</item>
+        <item>BRL</item>
+        <item>CAD</item>
+        <item>CNY</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>HKD</item>
+        <item>JPY</item>
+        <item>PLN</item>
+        <item>RUB</item>
+        <item>SEK</item>
+        <item>USD</item>
+        <item>ZAR</item>
+    </string-array>
+    <string name="action_settings">Settings</string>
+    <string name="start">start</string>
+    <string name="stop">stop</string>
+    <string name="reset">reset</string>
+    <string name="remaining_time">Remaining Time: </string>
+    <string name="total_elapsed_time">Total Elapsed Time: </string>
+    <string name="level">Level: </string>
+    <string name="reset_game">Play Again</string>
+    <string name="game_completed">Game Completed</string>
+    <string name="game_over">Game Over</string>
+    <string name="congrats_message">Congratulations!! You cleared all the levels</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_paint">PaintActivity</string>
+    <string name="action_undo">Undo</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_save">Save</string>
+    <string name="action_toggle_menu">Toggle Canvas Menu</string>
+    <string name="about_title">About</string>
+    <string name="about_message">This is a simple paint app developed by Varun Ramachandran.</string>
+    <string name="ok">OK</string>
+    <string name="saved">saved</string>
+    <string name="cancel">Cancel</string>
+    <string name="clear">Clear</string>
+    <string name="save">Save</string>
+    <string name="exit">Exit</string>
+    <string name="painting">Keep On Painting</string>
+    <string name="information">Information</string>
+    <string name="about">About</string>
+    <string name="listview_hint">There is no saved artwork.   Press ‘+’ button to create a new artwork.</string>
+    <string name="delete">Delete</string>
+
+    <string name="sml">Small</string>
+    <string name="med">Medium</string>
+    <string name="lrg">Large</string>
+
+</resources>
